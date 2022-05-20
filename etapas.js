@@ -4,15 +4,15 @@ let etapas = [
     numeros: 5,
     candidatos: [
       {
-        numero: 38111,
+        numero: '38111',
         nome: 'Shanks',
-        partido: 'ABC',
+        partido: 'PIRATE',
         fotos: [{ url: 'shanks.jpg', legenda: 'Vereador' }],
       },
       {
-        numero: 77222,
+        numero: '77222',
         nome: 'Brook',
-        partido: 'DEFG',
+        partido: 'MUSIC',
         fotos: [{ url: 'brook.png', legenda: 'Vereador' }],
       },
     ],
@@ -22,7 +22,7 @@ let etapas = [
     numeros: 2,
     candidatos: [
       {
-        numero: 99,
+        numero: '99',
         nome: 'Monkey D. Luffy',
         partido: 'CHAPEU',
         vice: 'Mon',
@@ -32,8 +32,8 @@ let etapas = [
         ],
       },
       {
-        numero: 84,
-        nome: 'Sanji',
+        numero: '84',
+        nome: 'Vinsmoke Sanji',
         partido: 'ESPADA',
         vice: 'San',
         fotos: [
