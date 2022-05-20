@@ -11,11 +11,12 @@
 }
 
 body {
-  margin: 0;
+  margin: 250px;
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(90deg, #f09046 0%, #48c079 100%);
 }
 .urna {
   background-color: #dbd5c9;
